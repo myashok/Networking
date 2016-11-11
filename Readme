@@ -1,1 +1,1 @@
-Add a } before return 0;
+Add a } before return 0; in the multiclient.c file
